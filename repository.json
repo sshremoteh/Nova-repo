@@ -1,0 +1,6 @@
+{
+      "name": "Мой Музыкальный Каталог",
+      "id": "my-music-repo",
+      "version": 1,                                                                                   "description": "Подборка любимых треков",
+      "tracks": "tracks.json"
+}
